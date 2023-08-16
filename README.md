@@ -1,8 +1,8 @@
 # SeizureDL-Final-Year-Project-2019-Batch
 An EEG based wen application that predicts seizure using multi-model based approch.
-![FYP2-PosterProject-F22-115-R-SeizureDL](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/b44b4c22-fde3-4650-8e8f-078fbe0e555c)
-![Screenshot (472)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/b007eda3-0ff9-4bcb-89a9-5bc49db81924)
-![Screenshot (473)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/c43d0884-3fd8-421f-9143-f0f5eeb85457)
-![Screenshot (474)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/f97fe149-f60d-44c9-bccb-e7d3cf1f17b6)
-![Screenshot (475)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/3f56a576-8361-4140-93ee-db1b5108eb32)
-![Screenshot (373)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/ff098148-953e-47e8-aebd-a6103c1ed7e5)
+
+![FYP2-PosterProject-F22-115-R-SeizureDL](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/e753b914-5b79-4702-bcae-96488f796b2b)
+![Screenshot (472)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/993435b1-990c-4fdb-832a-85e396fb5bdd)
+![Screenshot (473)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/ce82616a-8ec7-44d9-8eca-90e05f73f588)
+![Screenshot (474)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/91869b2b-ecbd-4cee-b7ef-862596a06792)
+![Screenshot (475)](https://github.com/FAhmedS/SeizureDL-Final-Year-Project-2019-Batch/assets/125798840/f57aeb69-d549-413c-ba22-d7e53b757a35)
